@@ -22,7 +22,7 @@ project-root
 🚀 Instalação:
 
 Clone o repositório e instale as dependências necessárias:
-git clone https://github.com/seu-usuario/fernethasher.git
+git clone https://github.com/sdouglasilva/gerenciador_de_senhas/
 cd fernethasher
 pip install -r requirements.txt
 
